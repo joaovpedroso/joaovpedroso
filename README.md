@@ -5,7 +5,7 @@ My name is João Victor Danieli Pedroso, and I'm from Brazil (🇧🇷). I've be
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-pedroso-4230a2162/)](https://www.linkedin.com/in/jo%C3%A3o-victor-pedroso-4230a2162/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-red?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-pedroso-4230a2162/)](https://www.linkedin.com/in/jo%C3%A3o-victor-pedroso-4230a2162/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-red?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/joaoDpedroso)](https://www.facebook.com/joaoDpedroso)
 
 <!--
 **joaovpedroso/joaovpedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
