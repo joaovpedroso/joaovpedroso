@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is João Victor Danieli Pedroso, and I'm from Brazil (🇧🇷). I've been working as Web Developer since 2018. Actually I work as a FullStack/Front End Developer at Agência e/Code  :)
+My name is João Victor Danieli Pedroso, and I'm from Brazil (🇧🇷). I've been working as Web Developer since 2018. Actually I work as a Front-End Developer at Frete.com  :)
 
 Would you like to find me?
 
